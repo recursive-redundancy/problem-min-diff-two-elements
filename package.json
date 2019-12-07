@@ -1,0 +1,19 @@
+{
+  "name": "problem-min-diff-two-elements",
+  "version": "1.0.0",
+  "description": "Practice Problem - Given an array, find the minimum difference between two elements.",
+  "main": "min-diff.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recursive-redundancy/problem-min-diff-two-elements.git"
+  },
+  "author": "Daniel Morgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recursive-redundancy/problem-min-diff-two-elements/issues"
+  },
+  "homepage": "https://github.com/recursive-redundancy/problem-min-diff-two-elements#readme"
+}
